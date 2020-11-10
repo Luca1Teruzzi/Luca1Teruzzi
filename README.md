@@ -1,4 +1,4 @@
-### Hi there i am Luca Teruzzi👋
+### Hi there I am Luca Teruzzi👋
 
 <!--
 **Luca1Teruzzi/Luca1Teruzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
